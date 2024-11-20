@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proc:process xmlns:proc="http://www.example.org/proc" id="d7def7e5-1ca6-4cf3-bb1c-2e693e88ec00">
+  <actionCode id="38fd9d11-3985-46e9-8eac-7fd252f9c6fa" isBeginAction="false" name="FileWait" nbCycles="-1" toleratedError="false" technology="com.indy.engine.actionCodes.FileWaitActionCodeI">
+    <metaDataLink id="9697908f-0e98-4d96-bc47-5274889f89b9" name="CSG2_ORA9" target="resource.md#_Zeed8KcTEe-MRc7bDGZ2kg?fileId=_ZZnMEKcTEe-MRc7bDGZ2kg$type=md$name=CSG2_ORA9?"/>
+    <parameter id="32fd64b0-68a0-4ff5-a7e5-23675a2b71a2" name="WAIT_FILE_DIR" type="String" value="C:\Users\lenovo\Desktop\Cours\020_Cas_Synth-se\DEV\Données\"/>
+  </actionCode>
+  <diagram><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:proc="http://www.example.org/proc" xsi:schemaLocation="http://www.eclipse.org/gmf/runtime/1.0.1/notation http://www.eclipse.org/gmf/runtime/1.0.3/notation#/?fileId=d7def7e5-1ca6-4cf3-bb1c-2e693e88ec00?" xmi:id="_DzuMQKcUEe-MRc7bDGZ2kg" type="Proc" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_mS4SoKcVEe-MRc7bDGZ2kg" type="2001">
+    <children xmi:type="notation:Node" xmi:id="_mS5gwKcVEe-MRc7bDGZ2kg" type="5001"/>
+    <children xmi:type="notation:Node" xmi:id="_mS6H0KcVEe-MRc7bDGZ2kg" type="7001">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_mS6H0acVEe-MRc7bDGZ2kg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_mS6H0qcVEe-MRc7bDGZ2kg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_mS6H06cVEe-MRc7bDGZ2kg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_mS6H1KcVEe-MRc7bDGZ2kg" type="7002">
+      <children xmi:type="notation:Node" xmi:id="__H3H0KcYEe-MRc7bDGZ2kg" type="3002">
+        <element xmi:type="proc:MetaDataLink" href="resource.proc#9697908f-0e98-4d96-bc47-5274889f89b9?fileId=d7def7e5-1ca6-4cf3-bb1c-2e693e88ec00$type=proc?"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="__H3H0acYEe-MRc7bDGZ2kg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_mS6H1acVEe-MRc7bDGZ2kg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_mS6H1qcVEe-MRc7bDGZ2kg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_mS6H16cVEe-MRc7bDGZ2kg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_mS4SoacVEe-MRc7bDGZ2kg" fontName="Segoe UI"/>
+    <element xmi:type="proc:ActionCode" href="resource.proc#38fd9d11-3985-46e9-8eac-7fd252f9c6fa?fileId=d7def7e5-1ca6-4cf3-bb1c-2e693e88ec00$type=proc$name=FileWait?"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mS4SoqcVEe-MRc7bDGZ2kg" x="198" y="12"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_DzuzUKcUEe-MRc7bDGZ2kg"/>
+  <element xmi:type="proc:ActionProcess" href="resource.proc#d7def7e5-1ca6-4cf3-bb1c-2e693e88ec00?fileId=d7def7e5-1ca6-4cf3-bb1c-2e693e88ec00$type=proc$name=DMVE_SALCAS_EXP?"/>
+</notation:Diagram>
+]]></diagram>
+</proc:process>

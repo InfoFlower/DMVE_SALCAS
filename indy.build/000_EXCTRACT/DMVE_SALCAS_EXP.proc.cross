@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cross:root xmlns:cross="http://www.stambia.com/cross" id="d7def7e5-1ca6-4cf3-bb1c-2e693e88ec00?fileId=d7def7e5-1ca6-4cf3-bb1c-2e693e88ec00?" type="PROCESS" modelVersion="1.0">
+  <property key="name" value="DMVE_SALCAS_EXP"/>
+  <ref id="_Zeed8KcTEe-MRc7bDGZ2kg?fileId=_ZZnMEKcTEe-MRc7bDGZ2kg?" type="METADATA">
+    <property key="name" value="CSG2_ORA9"/>
+    <property key="level" value="com.stambia.rdbms.schema"/>
+    <property key="fullPath" value="default/CSG2_ORA9"/>
+    <property key="productCode" value="ORACLE"/>
+    <target>38fd9d11-3985-46e9-8eac-7fd252f9c6fa?fileId=d7def7e5-1ca6-4cf3-bb1c-2e693e88ec00?</target>
+    <container>_ZZnMEKcTEe-MRc7bDGZ2kg?fileId=_ZZnMEKcTEe-MRc7bDGZ2kg?</container>
+  </ref>
+  <ref id="_ZZnMEKcTEe-MRc7bDGZ2kg?fileId=_ZZnMEKcTEe-MRc7bDGZ2kg?" type="METADATA">
+    <property key="containerLevel" value="SERVER"/>
+    <property key="name" value="default"/>
+    <property key="level" value="com.stambia.rdbms.server"/>
+    <property key="fullPath" value="default"/>
+    <property key="productCode" value="ORACLE"/>
+  </ref>
+  <ref id="38fd9d11-3985-46e9-8eac-7fd252f9c6fa?fileId=d7def7e5-1ca6-4cf3-bb1c-2e693e88ec00?" type="METADATA_LINK">
+    <property key="name" value="CSG2_ORA9"/>
+    <property key="level" value="com.stambia.rdbms.schema"/>
+    <property key="fullPath" value="DMVE_SALCAS_EXP/FileWait/CSG2_ORA9"/>
+  </ref>
+</cross:root>
